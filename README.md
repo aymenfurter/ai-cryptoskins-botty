@@ -1,5 +1,5 @@
 # AI Cryptoskins
-[![Docker package](https://github.com/aymenfurter/ai-cryptoskins-botty/actions/workflows/python-package.yml/badge.svg)](https://github.com/aymenfurter/ai-cryptoskins-botty/actions/workflows/python-package.yml)
+[![Docker package](https://github.com/aymenfurter/ai-cryptoskins-botty/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/aymenfurter/ai-cryptoskins-botty/actions/workflows/python-package.yml)
 
 [AI Cryptoskins](http://ai-cryptoskins.net/) are skins created by Artificial Intelligence. Botty (The name of this AI) is a torch based python app. It comes pre-trained, ready to generate as many skins as you like.
 
